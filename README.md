@@ -3,8 +3,10 @@
 
 Zean is a Jetpack Compose project that provides both Textual and OCR-based Question Answering capabilities. It leverages a custom implemented Language Model (LLM) to provide accurate and efficient answers to your queries.
 
-![alt text](/assets/img_1.png "1") ![alt text](/assets/img.png "2")
 
+MDDark             |  MDLight
+:-------------------------:|:-------------------------:
+![](/assets/img.png)  |  ![](/assets/img_1.png)
 ## Features
 
 - **Textual Question Answering**: Pose your questions in text format and get accurate answers instantly. This feature is powered by a custom implemented Language Model (LLM).
